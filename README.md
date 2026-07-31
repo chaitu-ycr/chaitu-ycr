@@ -26,25 +26,10 @@ _Good tests are a gift to your future self and your teammates._ 🎁  _If it can
 
 ---
 
-### 🛠️ My Tech Stack
-
-| Category | Details |
-| :--- | :--- |
-| 🐍 **Test Automation & Frameworks** | Python, CAPL, pytest |
-| 📋 **Testing Types** | Software Testing, System Testing |
-| 🚗 **Automotive Protocols** | CAN, UDS, DoIP |
-| 🔧 **Testing Tools** | Vector CANoe, NI |
-| ⚙️ **CI/CD & Automation** | Jenkins, GitHub Actions |
-| 📐 **Methodologies** | Agile, V-model |
-
----
-
 ## 📂 Open Source & Featured Projects
 
-* 🛶 **[py_canoe](https://github.com/chaitu-ycr/py_canoe)** – Python wrapper for Vector CANoe automation, enabling programmatic control of automotive diagnostic testing platforms
-* 🧠 **[Knowledge Base](https://github.com/chaitu-ycr/notes)** – Technical documentation on test automation, automotive protocols, and best practices
-
-**[→ Explore all repositories](https://github.com/chaitu-ycr?tab=repositories)** 🔗
+* 🛶 **[py_canoe](https://github.com/auto-py-utils/py-canoe)** – Python wrapper for Vector CANoe automation, enabling programmatic control of automotive diagnostic testing platforms
+* 🧠 **[My Learning Notes](https://github.com/chaitu-ycr/notes)** – Technical documentation on test automation, automotive protocols, and best practices
 
 ---
 
