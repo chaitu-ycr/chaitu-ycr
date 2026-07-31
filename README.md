@@ -2,47 +2,41 @@
 
 > *"Testing is the engineering rigor that separates software from 'ware'."* 🚀
 
-_Test early. Test often. Ship confidently._ ✅  _Automate the boring, surface the interesting._ 🤖  _Less guesswork, more assertions._ 🔍
+_Test early. Test often. Ship confidently._ ✅  
+_Automate the boring, surface the interesting._ 🤖
 
 ---
 
-### 🎯 Areas of Expertise
+## ⚙️ What I Build & What I’m Exploring
 
-* 🏗️ **Test Automation Frameworks** – Designing Python-based, scalable test automation architectures and best practices
-* 📊 **Quality Assurance Strategy** – Comprehensive testing approaches across software, system, and E2E levels
-* 🔄 **Continuous Testing** – Implementing CI/CD-integrated testing pipelines with intelligent test execution
-* 🚗 **Automotive Testing** – Deep knowledge of CAN, UDS, DoIP protocols and diagnostic validation frameworks
-* 🌍 **Open Source Development** – Building and maintaining testing tools and frameworks for the community
-
----
-
-### 🔍 What I'm Focused On
-
-* 🛠️ **Currently Working On:** Advanced test automation patterns, intelligent test selection, and testing tool development
-* 💡 **Passionate About:** Improving testing practices, building better automation frameworks, and sharing knowledge
-* 🚀 **Interested In:** Test optimization, emerging testing methodologies, and automotive technology evolution
-
-_Good tests are a gift to your future self and your teammates._ 🎁  _If it can't be tested, it's not finished._ 🧩  _Fast feedback beats slow perfection._ ⚡  _One flaky test ruins a morning — fix it._ 🛠️
+* 🏗️ **Test Automation Frameworks** – Building Python-first, scalable automation architectures
+* 📊 **Quality Assurance Strategy** – Defining software, system, and E2E validation approaches
+* 🔄 **Continuous Testing** – Connecting CI/CD with intelligent test execution
+* 🚗 **Automotive Testing** – Applying CAN, UDS, DoIP diagnostics to real validation workflows
+* 🌍 **Open Source Development** – Creating and maintaining tools that empower testing teams
+* 🛠️ **Current focus:** automation patterns, smart test selection, tooling for test engineering
 
 ---
 
-## 📂 Open Source & Featured Projects
+## 📂 Featured Work
 
-* 🛶 **[py_canoe](https://github.com/auto-py-utils/py-canoe)** – Python wrapper for Vector CANoe automation, enabling programmatic control of automotive diagnostic testing platforms
-* 🧠 **[My Learning Notes](https://github.com/chaitu-ycr/notes)** – Technical documentation on test automation, automotive protocols, and best practices
+* 🛶 **[py_canoe](https://github.com/auto-py-utils/py-canoe)** – Python wrapper for Vector CANoe automation and diagnostic test control
+* 🧠 **[My Learning Notes](https://github.com/chaitu-ycr/notes)** – Technical documentation on test automation, automotive protocols, and QA best practices
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Connect with Me
 
-| Platform | Link |
+| Channel | Action |
 | :--- | :--- |
 | 💼 **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/chaitu-ycr/) |
-| 📦 **PyPI** | [View Packages](https://pypi.org/user/chaitu.ycr/) |
-| ▶️ **YouTube** | [Watch & Subscribe](https://www.youtube.com/@chaitu-ycr) |
+| 📦 **PyPI** | [Explore packages](https://pypi.org/user/chaitu.ycr/) |
+| ▶️ **YouTube** | [Watch & subscribe](https://www.youtube.com/@chaitu-ycr) |
 
 ---
 
 > *"A test without assertions is just a really expensive print statement."* 😄
 
-_Testing isn't about proving the code works—it's about giving the team confidence._ ✨  _Automation amplifies good engineering; design your tests like software._ 🧭  _Ship small, measure fast, learn faster._ 📈
+_Testing isn't about proving the code works—it's about giving the team confidence._ ✨  
+_Automation amplifies good engineering design your tests like software._ 🧭  
+_Good testing is confidence engineered into every release._
